@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Mike's Classic Ads"
 title_separator          : "-"
 subtitle                 : History. Remembered. # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "Mike Stone"
 description              : "An amazing website."
 url                      : "https://mikesclassicads.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/" # the subpath of your site, e.g. "/blog"
@@ -104,15 +104,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Mike Stone"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "Pretty sure the Earth is _not_ flat."
+  location         : "Earth"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:mike@mikesclassicads.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
